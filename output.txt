@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=59636:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Cyclone'd\out\production\Cyclone'd Main
+595.0255732531868
+Day 1 Distance: 0
+Day 2 Distance:595.0255732531868
+Day 3 Distance:490.2239869000177
+Day 4 Distance:348.34982164569317
+Day 5 Distance:894.6337883793107
+Day 6 Distance:1234.664659020159
+Day 7 Distance:1120.5978010583758
+Day 8 Distance:595.0255732531868
+Day 9 Distance:570.2716534715748
+Day 10 Distance:362.02613398964706
+Day 11 Distance:127.86645556329361
+Day 12 Distance:336.6658606618503
+Day 13 Distance:91.93872138377755
+The distance the Hurricane travelled is, 6767.290028580073 Kilometers
+Process finished with exit code 0
